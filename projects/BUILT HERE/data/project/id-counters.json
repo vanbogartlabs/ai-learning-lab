@@ -1,0 +1,12 @@
+{
+  "source_next": 1,
+  "claim_next": 1,
+  "person_next": 1,
+  "company_next": 1,
+  "organization_next": 1,
+  "place_next": 1,
+  "event_next": 1,
+  "quote_next": 1,
+  "decision_next": 1,
+  "review_next": 1
+}

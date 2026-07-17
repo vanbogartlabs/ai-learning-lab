@@ -1,0 +1,29 @@
+{
+  "gates": [
+    {
+      "id": "GATE-01",
+      "name": "thesis-and-narrative-architecture",
+      "status": "not_started"
+    },
+    {
+      "id": "GATE-02",
+      "name": "table-of-contents",
+      "status": "not_started"
+    },
+    {
+      "id": "GATE-03",
+      "name": "chapter-brief",
+      "status": "not_started"
+    },
+    {
+      "id": "GATE-04",
+      "name": "first-draft",
+      "status": "not_started"
+    },
+    {
+      "id": "GATE-05",
+      "name": "final-chapter",
+      "status": "not_started"
+    }
+  ]
+}

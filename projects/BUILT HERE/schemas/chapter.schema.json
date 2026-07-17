@@ -1,0 +1,93 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Chapter Record",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "title",
+    "status"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^CH-[0-9]{2}$"
+    },
+    "title": {
+      "type": "string"
+    },
+    "part": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "purpose": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "research_question_ids": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^RQ-[0-9]{3}$"
+      }
+    },
+    "claim_ids": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^CLM-[0-9]{5}$"
+      }
+    },
+    "entity_ids": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "event_ids": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^EVT-[0-9]{5}$"
+      }
+    },
+    "brief_path": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "draft_path": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "final_path": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "status": {
+      "enum": [
+        "proposed",
+        "briefing",
+        "brief_approval",
+        "drafting",
+        "draft_approval",
+        "revision",
+        "fact_check",
+        "final_approval",
+        "locked"
+      ]
+    },
+    "approval": {
+      "type": "object"
+    }
+  }
+}

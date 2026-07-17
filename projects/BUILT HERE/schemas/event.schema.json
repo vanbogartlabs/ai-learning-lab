@@ -1,0 +1,80 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Event Record",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "title",
+    "status"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^EVT-[0-9]{5}$"
+    },
+    "title": {
+      "type": "string"
+    },
+    "date_start": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "date_end": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "date_precision": {
+      "enum": [
+        "exact",
+        "month",
+        "year",
+        "range",
+        "approximate",
+        "unknown"
+      ]
+    },
+    "description": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "entity_ids": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "source_ids": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^SRC-[0-9]{5}$"
+      }
+    },
+    "claim_ids": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^CLM-[0-9]{5}$"
+      }
+    },
+    "status": {
+      "enum": [
+        "proposed",
+        "active",
+        "under_review",
+        "approved",
+        "locked",
+        "rejected",
+        "superseded",
+        "archived"
+      ]
+    }
+  }
+}

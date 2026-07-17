@@ -1,0 +1,9 @@
+{
+  "project_id": "built-here",
+  "title": "Built Here: The Cedar Rapids Advantage",
+  "central_question": "Why did Cedar Rapids repeatedly produce an extraordinary concentration of successful entrepreneurs and companies?",
+  "primary_objective": "Produce the best possible book.",
+  "architecture_version": "1.0-book-first-data-first",
+  "status": "active",
+  "current_phase": "repository_initialization"
+}

@@ -1,0 +1,64 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Quote Record",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "text",
+    "source_id",
+    "location",
+    "verification_status"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^QTE-[0-9]{5}$"
+    },
+    "text": {
+      "type": "string"
+    },
+    "speaker_entity_id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "source_id": {
+      "type": "string",
+      "pattern": "^SRC-[0-9]{5}$"
+    },
+    "location": {
+      "type": "string"
+    },
+    "verification_status": {
+      "enum": [
+        "unverified",
+        "verified",
+        "rejected"
+      ]
+    },
+    "permission_status": {
+      "enum": [
+        "unknown",
+        "not_required",
+        "requested",
+        "granted",
+        "denied"
+      ]
+    },
+    "chapter_ids": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^CH-[0-9]{2}$"
+      }
+    },
+    "notes": {
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  }
+}
