@@ -17,6 +17,8 @@ The workflow exists to produce the best possible book.
 
 Speed is valuable only when it does not reduce accuracy, coherence, or editorial quality.
 
+The workflow is subordinate to `The_Promise_of_Built_Here.md`, `Writing_Constitution_v2.md`, `Chapter_Contract_v2.md`, and `Narrative_Test.md`. Research timelines may verify facts, but chronology may never become the manuscript's narrative structure.
+
 ---
 
 # Phase 1 — Project Definition
@@ -115,6 +117,9 @@ Produce:
 - Narrative objective
 - Key scenes
 - Research dependencies
+- One named entrepreneurial protagonist
+- Documented business problem, stakes, pivotal decision, consequence, and legacy
+- Cedar Rapids context that directly changes or is changed by the protagonist
 
 ## Human Approval Gate 3
 
@@ -124,7 +129,7 @@ Approve each Chapter Brief before drafting.
 
 # Phase 6 — Drafting
 
-Writing agents create first drafts using only approved evidence.
+Writing agents create first drafts using only approved evidence. Every draft must tell one entrepreneur's story; history remains supporting material.
 
 Outputs:
 
@@ -148,6 +153,8 @@ Specialist agents perform:
 - redundancy detection
 - voice consistency
 - pacing review
+- entrepreneur-centered narrative review
+- chapter-opening and page-turning review
 
 Outputs:
 
@@ -211,6 +218,7 @@ Perform:
 - timeline consistency
 - thematic consistency
 - final editorial pass
+- entrepreneur prominence and chapter-to-chapter momentum
 
 Outputs:
 

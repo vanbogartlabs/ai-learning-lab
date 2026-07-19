@@ -7,4 +7,5 @@
 5. The repository is authoritative; chat history is not.
 6. Human approval is required at defined editorial gates.
 7. AI may assist research, analysis, drafting, and review, but not fabricate.
-8. Every decision should improve the long-term publishing system.
+8. Every decision should improve the book; reusable publishing-system improvements are secondary.
+9. Every chapter belongs to one entrepreneur, with history serving as context rather than protagonist.

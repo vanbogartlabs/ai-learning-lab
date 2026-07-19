@@ -3,14 +3,18 @@
 # Editorial Vision
 
 **Project:** *Built Here: The Cedar Rapids Advantage*  
-**Status:** Draft v1.0  
+**Status:** Version 2.0 — aligned with the Built Here Writing Constitution
 **Purpose:** Define the editorial identity every AI agent must preserve while researching, outlining, drafting, revising, and assembling the manuscript.
+
+## Authority
+
+`The_Promise_of_Built_Here.md`, `Writing_Constitution_v2.md`, `Chapter_Contract_v2.md`, and `Narrative_Test.md` supersede all earlier editorial guidance. If this document can be read in more than one way, choose the interpretation that keeps one entrepreneur—not the city, an institution, or a timeline—at the center of every chapter.
 
 ---
 
 # 1. Editorial Mission
 
-Produce a book that reads like the work of a disciplined historian and an exceptional narrative nonfiction writer—not like a collection of AI-generated summaries.
+Produce bestselling narrative nonfiction with the factual discipline of history—not a history book, civic survey, or collection of AI-generated summaries.
 
 The reader should finish the book believing they understand **why Cedar Rapids repeatedly produced builders**, not simply knowing more facts about Cedar Rapids.
 
@@ -101,9 +105,7 @@ Companies are not the protagonists.
 
 People are.
 
-Institutions are recurring characters.
-
-The city itself is a character.
+Institutions and the city are forces that constrain, equip, reward, or test the entrepreneur. They are never protagonists.
 
 Readers should understand:
 
@@ -121,13 +123,9 @@ without fictionalizing history.
 
 # 7. Structure
 
-The book should continually alternate between:
+Every chapter belongs to one entrepreneur and advances through that person's problems, risks, decisions, consequences, and legacy. Institutional development and broader analysis may appear only when they sharpen the entrepreneur's conflict or explain why the business story happened in Cedar Rapids.
 
-- individual stories
-- institutional development
-- broader analysis
-
-This rhythm prevents the work from becoming either biography or textbook.
+The book is biography-driven narrative nonfiction. It must never become a timeline, textbook, civic history, or encyclopedia.
 
 ---
 
@@ -172,7 +170,7 @@ Prefer:
 
 - concrete nouns
 - active verbs
-- precise dates
+- precise dates when they clarify a decision or consequence, never as the chapter's organizing spine
 - named people
 - observable actions
 - measurable outcomes

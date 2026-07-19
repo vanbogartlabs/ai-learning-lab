@@ -4,7 +4,7 @@
 
 **Project:** *Built Here: The Cedar Rapids Advantage*  
 **Status:** v2.0  
-**Migration rule:** Preserve all existing governance and manuscript artifacts.
+**Migration rule:** Preserve prior artifacts as immutable history while allowing aggressive new manuscript versions.
 
 ## Core Principle
 
@@ -119,7 +119,7 @@ All existing governance files remain in `governance/`.
 
 Existing research Markdown should move to `archive/legacy_markdown/` only after its durable facts are migrated into canonical records.
 
-Existing drafts remain untouched until chapter records and claim links are established.
+Existing completed drafts remain untouched as prior versions. New versioned drafts may and should be rewritten aggressively once their factual boundaries and claim links are established.
 
 ## Migration Sequence
 

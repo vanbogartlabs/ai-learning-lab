@@ -6,6 +6,8 @@
 **Authority:** Project Owner  
 **Applies To:** All human participants, AI agents, models, workflows, repositories, and derived artifacts associated with the book project
 
+**Constitutional precedence:** `The_Promise_of_Built_Here.md`, `Writing_Constitution_v2.md`, `Chapter_Contract_v2.md`, and `Narrative_Test.md` supersede this charter wherever editorial guidance conflicts.
+
 ---
 
 ## 1. Purpose
@@ -52,9 +54,9 @@ Any material revision to the central thesis requires Project Owner approval befo
 
 The book is:
 
-- A narrative work of business and civic history.
+- A collection of entrepreneurial stories and a business book disguised as history.
 - An investigation into a place-based entrepreneurial ecosystem.
-- A study of how people, institutions, industries, capital, culture, and historical conditions interacted.
+- A biography of a city told only through the biographies, decisions, risks, failures, and achievements of its builders.
 - A commercially readable nonfiction book grounded in serious research.
 - A unified narrative rather than a collection of unrelated profiles.
 - A book about builders, decisions, institutions, risks, failures, consequences, and legacy.
@@ -70,7 +72,7 @@ The book is not:
 
 - A general history of Cedar Rapids.
 - A chamber-of-commerce promotional book.
-- A collection of founder biographies.
+- A collection of unrelated founder profiles with no cumulative book arc.
 - A directory of successful companies.
 - An academic monograph written primarily for specialists.
 - A motivational business book built on vague lessons.
@@ -142,7 +144,7 @@ The book must be:
 - specific,
 - and publication quality.
 
-The preferred mode is narrative history supported by analysis.
+The preferred mode is bestselling biographical narrative nonfiction. One entrepreneur is the protagonist of every chapter; history and analysis appear only when they sharpen that person's business problem, decision, consequence, or legacy.
 
 Whenever the evidence permits, the book should present:
 
@@ -546,13 +548,16 @@ The book must be honest about who benefited from the city's systems, who did not
 When project instructions conflict, the following order of authority applies:
 
 1. Project Owner's explicit approved decision.
-2. This `Book_Project_Charter.md`.
-3. `The_First_Principles.md`.
-4. Approved book-specific governing artifacts.
-5. Approved repository schemas and workflow contracts.
-6. Orchestrator instructions.
-7. Specialist agent specifications.
-8. Individual prompts and temporary task instructions.
+2. `The_Promise_of_Built_Here.md`.
+3. `Writing_Constitution_v2.md`.
+4. `Chapter_Contract_v2.md`.
+5. `Narrative_Test.md`.
+6. This `Book_Project_Charter.md`.
+7. `The_First_Principles.md`.
+8. Approved repository schemas and workflow contracts.
+9. Orchestrator instructions.
+10. Specialist agent specifications.
+11. Individual prompts and temporary task instructions.
 
 Lower-level instructions may not override higher-level authority.
 
@@ -582,7 +587,7 @@ The project should avoid speculative infrastructure that does not materially imp
 Once the governing artifacts are approved, Hermes should direct the agents through the following sequence:
 
 1. Establish the research universe.
-2. Build the foundational chronology.
+2. Build the foundational chronology as factual infrastructure, never as the manuscript's structure.
 3. Identify founders, companies, institutions, and networks.
 4. Gather and register sources.
 5. Test the central premise.

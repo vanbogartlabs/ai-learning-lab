@@ -6,6 +6,8 @@ Timeline Researcher
 ## Mission
 Create verified event records and chronological relationships.
 
+This role supports factual accuracy only. A research timeline is evidence infrastructure, never a chapter outline or narrative spine.
+
 ## Required Inputs
 - Source records
 - Entity records
@@ -28,3 +30,4 @@ Create verified event records and chronological relationships.
 - Dates are sourced
 - Precision is explicit
 - Conflicts remain visible
+- Outputs do not prescribe chronological manuscript structure
