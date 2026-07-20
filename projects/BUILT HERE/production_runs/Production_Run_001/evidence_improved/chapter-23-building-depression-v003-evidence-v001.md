@@ -1,0 +1,93 @@
+# Chapter 23 — Building Through the Depression
+
+Grant Wood’s 1928 memorial project left Cedar Rapids a method, not a personal handoff: specify the work, rely on other people’s skills and authority, and remain accountable while an idea passes through commercial relationships. Beginning in 1931, Arthur A. Collins faced a different version of that problem. He did not need to make one public object durable. He needed to make specialized radio capability durable as a business. Institutional and retrospective histories mark no single clean founding moment for Collins Radio: laboratory activity in 1931, use of the Collins Radio name by late 1932, a Delaware charter in 1933, and Iowa reincorporation in 1937 were successive thresholds by which personal capability became an entity with obligations.
+<!-- CM23-01 -->
+<!-- CM23-02 -->
+<!-- CM23-08 -->
+
+Arthur Collins founded a company more than once.
+
+The sentence sounds paradoxical only if founding is treated as a ceremony. A date can mark the first use of a name, the creation of a legal form, or the beginning of commercial activity, but those events do not perform the same work. Collins’s enterprise emerged through a sequence because technical skill and an operating company are different things. A radio can function before sales, collections, bids, employees, attorneys, records, and legal responsibilities can function together.
+<!-- CM23-03 -->
+
+Collins entered that sequence with recognized technical capability. He had been a licensed amateur radio operator while young, and institutional and retrospective accounts associate him with accomplished early radio work. That background establishes what he could do before the company. It does not establish that a company was inevitable, that customers would pay, or that technical recognition could substitute for commercial organization.
+<!-- CM23-04 -->
+
+The documented sequence supports a bounded reading of Collins’s defining decision: from 1931 through 1937, he repeatedly moved specialized work into increasingly formal commercial and legal commitments rather than preserve it as amateur, consulting, or bounded individual practice.
+<!-- CM23-05 -->
+
+As structural comparisons rather than documented deliberation, Collins could have kept work within his own capacity, delayed incorporation, or placed selling, collections, staffing, and records inside an established employer’s organization. The evidence does not show him weighing those courses aloud. They matter because each would have contained the very burden his successive commitments enlarged: the number of promises that had to be kept when he was no longer the only person doing the work.
+<!-- CM23-06 -->
+
+Institutional histories place Arthur Collins Radio Laboratories in 1931, a threshold that gave specialized activity an organizational identity without proving a fully formed company launch. “Laboratories” still pointed toward technical work, but the name did more than describe a bench. It placed Collins’s professional identity in relation to work that could be offered, recorded, and repeated. The record does not supply a dramatic opening day, and the chapter does not need one. Formation begins when capability starts acquiring obligations.
+<!-- CM23-07 -->
+
+Institutional and retrospective histories place the Collins Radio name in use by late 1932. The change matters because a business name makes a claim to continuity. A customer dealing with Collins Radio was not merely encountering a talented operator on one occasion. The name implied an organization that could answer again: for equipment, delivery, service, payment, or a bid. It placed Collins’s own name behind something increasingly larger than his hands.
+
+The surviving archive’s listed record classes make a bounded commercial cycle visible. Advertising and bids offered technical work to customers rather than assuming demand. Cash-sale receipts and cash-drawer slips recorded the point at which an offer became a sale and payment became money the company could preserve and use. Employment records marked the next step: work had begun to extend beyond Collins, so another person’s role and the company’s obligation to that person had to remain intelligible. Attorney, customer, government-work, and equipment files carried those obligations under a name that others could recognize after one job ended. The cycle was therefore not engineering followed by secondary paperwork. An offer had to become accountable work; the work had to become a recorded sale; the sale had to become collected cash; cash and records had to support people and commitments that survived the immediate transaction. Folder titles are not transaction proof and disclose no amount, wage, bid result, or contract term without inspection. They establish the kinds of routines through which technical capability could answer again.
+<!-- CM23-09 -->
+<!-- CM23-10 -->
+
+Economic contraction made each threshold less secure. The Depression belongs here not as scenery or proof of personal poverty, but as pressure moving through the operating cycle. A customer could postpone a purchase; a completed sale could take longer to become usable cash; uncertain cash could constrain the next commitment to labor or materials. The exact transactions are unverified, but the mechanics explain why a new technical enterprise had little room to treat collection and records as afterthoughts. Each obligation could arrive before the prior one had fully paid for itself.
+
+The record does not establish that Collins was destitute, denied credit, or rescued by a Cedar Rapids bank. It does not establish exact capitalization, ownership percentages, loans, guarantees, collateral, payroll, margins, revenue, or loss. Those unknowns prevent the familiar mythology of a lone inventor risking his last dollar. The supported exposure is substantial without invention: Collins made his professional name answerable for a company serving customers and involving other people during contraction.
+<!-- CM23-11 -->
+<!-- CM23-12 -->
+
+Institutional histories report a Delaware charter in 1933, another threshold in the enterprise’s formalization. Chartering did not create Collins’s technical skill, and it did not merely decorate a business already complete. Corporate form gave customers, employees, advisers, and counterparties an entity against which relationships could persist. It created a vessel for rights and obligations that did not have to be remade every time Collins moved from one job to the next.
+
+The published accounts do not disclose the charter’s exact terms, and the original filing remains uninspected. That qualification is important because the record cannot support claims about ownership, capitalization, or board authority. What it supports is the sequence: activity in 1931, a company name by late 1932, and a Delaware legal form in 1933. Each step made the work less personal and more institutional.
+<!-- CM23-13 -->
+
+Institutional and retrospective accounts associate Collins equipment with the 1933–1934 Byrd Antarctic expedition, offering the formation story its widest geography. Specialized radio work originating in Cedar Rapids could answer a problem far beyond the local market. Distance, however, magnified rather than replaced the ordinary business demands. Equipment still had to be specified, delivered, supported, recorded, and paid for through some relationship, even though the contracting party, terms, performance, payment, and causal importance remain unverified. Byrd shows reach. Receipts, bids, customers, records, and legal forms show what made reach repeatable.
+<!-- CM23-14 -->
+
+The expedition’s prestige could attract memory; it could not operate the cash drawer. A company had to turn distant work into accountable delivery and cash, then preserve enough of the relationship to answer again. Formation happened in that repeated return from technical possibility to commercial obligation.
+
+Family circumstances added surrounding uncertainty without becoming Arthur Collins’s personal balance sheet. A later account reports that Merle Collins’s mortgage and farm businesses failed in 1934. The fact matters because company formation did not occur inside a world of secure local property enterprise. It does not establish that Arthur guaranteed those debts, inherited the liabilities, lost family capital, or discussed the failures in any particular way. The pressure is contextual, not transferable by assumption.
+<!-- CM23-15 -->
+
+This boundary also complicates self-made mythology. Collins did not emerge without family, technical, social, or institutional context. Taken together, institutional histories describe Cedar Rapids as supplying a home base, amateur-radio networks, customers and professional relationships, lawyers, commercial institutions, utilities, transportation, industrial skills, and eventually labor and space. The exact value of those resources is incompletely measured. Their existence makes the company more understandable, not less attributable to Collins’s decisions.
+<!-- CM23-16 -->
+
+That is the formation chapter’s contradiction. Collins gained durability by giving the work an existence beyond himself. The company could carry knowledge, relationships, and commitments farther than an individual practice, but it also acquired constituencies. Customers depended on delivery and service. Employees depended on the young firm’s ability to convert orders and receipts into continuing work. Advisers and institutions held roles that could not be reduced to Collins’s technical authority.
+
+The evidence does not identify every early employee or allocate each contribution. It would be inaccurate to describe Collins as a solitary creator merely because the company bore his name. A business becomes larger than personal practice precisely when other people’s work matters. Collins remains the protagonist because he repeatedly accepted organizational commitment, not because he performed every task.
+<!-- CM23-17 -->
+
+Institutional histories place Iowa reincorporation in 1937, marking another threshold. Again, the legal event should neither be elevated into the one true birthday nor dismissed as administrative cleanup. Reincorporation changed the entity’s formal footing. The original documents are still needed to establish exact rights and terms, but the event belongs to the supported formation sequence. Six years after laboratory activity began, the company had moved through names and legal forms rather than appearing fully formed on one date.
+<!-- CM23-18 -->
+
+The thresholds changed answerability in sequence. The 1931 laboratory identity organized technical activity; the Collins Radio name in late 1932 gave customers a concern that could answer again; the 1933 charter gave relationships a corporate vessel; and the 1937 Iowa reincorporation altered the enterprise’s formal footing. No one date proves the whole company. Together, the commitments made Collins’s name responsible for customers, employees, advisers, records, and law beyond what he could personally complete. Founding happened more than once because durability had to be built in more than one dimension.
+
+Cedar Rapids shaped the enterprise by offering both resources and a test. Its industrial history meant technical and commercial skills, utilities, transport, legal services, labor, and market relationships were available in some measure. Its Depression economy did not guarantee customers or financing. No particular bank can be credited with saving or refusing the company. The city reduced some uncertainties while leaving Collins responsible for converting capability into an organization.
+
+Collins gave Cedar Rapids a new kind of operating enterprise. Food processors and machinery builders had already shown how physical products could organize labor and reach distant markets. The surviving archive traces a formal radio business through customer files, bids, receipts, employee records, legal forms, and equipment records, broadening the city’s production vocabulary. At this stage, that contribution is organizational—not wartime scale, aerospace achievement, or lunar communications.
+<!-- CM23-19 -->
+
+Those later achievements must remain later. The next chapter will ask whether a young company can reproduce technical quality through many people and locations under wartime customer power. Still later questions of scale and control cannot be smuggled backward to make 1931–1937 feel inevitable. The formation sequence deserves its own uncertainty.
+<!-- CM23-21 -->
+
+Even the dedicated plant at 855 Thirty-Fifth Street belongs only at the edge of this chapter. Later institutional histories place a dedicated base around 1940–1941, after the six-year formation sequence. It can appear as an approaching capacity threshold, evidence that the organization was moving toward a more fixed physical commitment. It cannot become the chapter’s climax or begin the wartime expansion story.
+<!-- CM23-20 -->
+
+By 1937, Collins had not solved every problem. Legal form did not guarantee sales. Records did not guarantee collection. A name did not guarantee quality. Employees and customers enlarged the organization’s capability while increasing the number of promises it had to keep. The company existed, but existence was not security.
+
+The formation sequence had nevertheless changed what failure or success would mean. If Collins remained an individual practitioner, a missed job or technical error would have been bounded largely by his own capacity and reputation. An operating entity distributed consequence. Customers could be left without delivery or service; employees could lose continuing work; advisers and counterparties could face unmet commitments. Greater durability carried a wider field of responsibility. That widening, rather than an unsupported financial gamble, is the chapter’s most defensible measure of exposure.
+
+That incomplete outcome is more consequential than a triumphant founding date. Technical skill had acquired continuity in names, routines, relationships, records, roles, and legal forms. It could now receive demands too large or complex for an individual practice. It could also fail those demands as an organization. Collins had created the necessary condition for scale, not the certainty of it.
+
+Wood’s window had shown how one idea could survive by moving through forms, instructions, relationships, and specialized work. Collins turned that temporary production method into institutional practice. His enterprise had to preserve knowledge across more than one object and more than one customer. Specification became records; handoffs became roles; commercial relationships became routines; accountability became an entity bearing his name.
+
+The difference marks the beginning of a new movement in the book. Earlier builders made possibility usable, built connections, organized industrial systems, and created operating authority. Collins now confronted dependence and control at the smallest company threshold. Before a powerful customer could enlarge the organization, the organization had to exist in a form capable of being enlarged.
+
+The takeaway is not that formal paperwork produces entrepreneurship. It is that capability becomes inheritable only when someone accepts the ordinary obligations required to carry it. Arthur Collins made radio skill less personal so that it could become more durable. The cost was that his name became answerable for work, people, and commitments beyond his own bench.
+
+That answerability was the company’s first durable product, before later scale could test it.
+
+It was also a collective condition. Customers, employees, advisers, and counterparties could now direct expectations toward an organization rather than only toward Collins’s personal skill. The records gave those expectations a place to persist. That did not guarantee fulfillment. It made fulfillment—or failure—organizational, which was precisely the consequential change Collins had accepted during the formation years.
+
+Chapter 24 receives the young organization in 1942 and asks whether it can reproduce technical quality through many people and places under customer-shaped procurement rules. It does not receive wartime expansion already accomplished or any later answer about control.
+<!-- CM23-22 -->
+
+A durable but still young technical organization with formal identity, early customers, commercial routines, records, roles, a local base, and a dedicated-capacity threshold approaching.
